@@ -1,0 +1,28 @@
+- id: "reviews"
+  web:
+    metaDescription: "Kin Insurance is rated 4.7 out of 5 stars on Trustpilot based on 2,800+ reviews. Learn more."
+    metaTitle: "Kin Insurance | Reviews"
+    metaKeywords: null
+    metaLinkText: "Reviews"
+    pathPart: "reviews"
+    path: "/reviews/"
+    parent: "/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Kin Insurance reviews"
+    sub_header: "Find out what our customers say about their experience with Kin Insurance."
+    featured_image: null
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: "https://www.youtube.com/watch?v=K4dhmJRM5NY"
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
